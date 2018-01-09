@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426431417733",
+    "project_id": "firebase-furns"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426431417733:android:2e3b79b95bded59b",
+        "android_client_info": {
+          "package_name": "com.furns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426431417733-os8f4t1n8n5ven7tibhmeus2qp5lvmcc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "426431417733-8j4u4v1rkj0looqbgnu0f76fpkl5ib6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.furns",
+            "certificate_hash": "af6c0a613fdc458f4cf1d645c2bb66265ebbd90b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMM2ceBW6pD-OoEfArleeD2nI5Q9nFXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
